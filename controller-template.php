@@ -14,9 +14,8 @@
     
     //* Process HTTP POST Request
     if($method=='POST'){
-
+        
     }
-   
 
     function showErrors($debug){
         if($debug==1){
